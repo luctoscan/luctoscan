@@ -5,4 +5,4 @@
 Quem sou eu:
 
 + Estudante de Engenharia da Computação:man_student:
-+ Iniciante em desenvolvimento:man_technologist:
++ Estudante de Desenvolvimento Web Full-Stack:man_technologist:
