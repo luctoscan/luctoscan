@@ -1,6 +1,6 @@
 ## Bem-Vindo ao meu GitHub :wave: 
 
-Meu nome é <strong>Lucas Toscan</strong>. Sou estudante, minha playlist é variada e tenho um gato chamado Mion :cat:
+Meu nome é <strong>Lucas Toscan</strong>. Sou estudanta e entusiata de tecnologia
 
 Formado em Eletrotécnica e no momento cursando Engenharia da Computação | Desenvolvimento Web Full-Stack.
 <br>
